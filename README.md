@@ -1,3 +1,6 @@
+<img src="public/image.png" alt="alternatives readme">
+
+
 # BMI Calculator
 
 This is an **Body Mass Index (BMI) Calculator** project built with **Next.js** and **TailwindCSS**.
